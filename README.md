@@ -12,6 +12,21 @@ This Python tool pulls user activity statistics from a MySQL database and plots 
 * Create `cfg.json`: *See bottom of the page for sample cfg.json*
 * Run program using `cfg.json`: `python main_plot.py -uc 1`
 
+## Sample images
+
+![Least users](
+        https://github.com/Jynsaillar/python_server_log_plotting/blob/master/rz-least-per-hour-2019-01-30-to-2019-02-09.png
+        "Least users online per hour"
+      )
+![Average users](
+        https://github.com/Jynsaillar/python_server_log_plotting/blob/master/rz-avg-per-hour-2019-01-30-to-2019-02-09.png
+        "Average users online per hour"
+      )
+![Most users](
+        https://github.com/Jynsaillar/python_server_log_plotting/blob/master/rz-most-per-hour-2019-01-30-to-2019-02-09.png
+        "Most users online per hour"
+      )
+      
 ## Getting Started
 
 ### On Windows:
